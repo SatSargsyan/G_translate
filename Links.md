@@ -1,0 +1,10 @@
+#
+### [Pricing](https://cloud.google.com/translate/pricing)
+### []()
+### []()
+### []()
+### []()
+### []()
+### []()
+### [Authorization framework](https://tools.ietf.org/html/rfc6749)
+### [OAuth](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
